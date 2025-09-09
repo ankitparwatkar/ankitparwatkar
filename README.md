@@ -43,7 +43,7 @@ I am a passionate Data Scientist with expertise in Artificial Intelligence and M
 
 ### 🌟 **Featured Projects**
 
-#### 🤖 [Advanced Predictive Analytics Model](https://github.com/ankitparwatkar/online-payment-fraud-detection-app)
+#### 🤖 [Advanced Predictive Analytics Model](https://github.com/ankitparwatkar/fraudguard-pro-online-payment-fraud-detection-app)
 > Machine Learning model for predictive analysis with 95% accuracy
 
 #### 📊 [Interactive Data Dashboard](https://github.com/ankitparwatkar/)
