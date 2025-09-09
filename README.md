@@ -49,7 +49,7 @@ I am a passionate Data Scientist with expertise in Artificial Intelligence and M
 #### 📊 [Interactive Data Dashboard](https://github.com/ankitparwatkar/)
 > Real-time data visualization dashboard using Power BI and Tableau
 
-#### 🔍 [Deep Learning Framework](https://github.com/ankitparwatkar/deep-learning)
+#### 🔍 [Deep Learning Framework](https://github.com/ankitparwatkar/Gesture-Controlled-Gaming-Setup)
 > Custom deep learning implementation from scratch
 
 ---
