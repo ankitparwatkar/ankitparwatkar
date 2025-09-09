@@ -11,7 +11,6 @@ I am a passionate Data Scientist with expertise in Artificial Intelligence and M
 
 ### ⚡ **GitHub Activity**
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitparwatkar&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitparwatkar&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparwatkar&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -34,25 +33,23 @@ I am a passionate Data Scientist with expertise in Artificial Intelligence and M
 #### 🗄️ **Databases & Big Data**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### ⚙️ **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🌟 **Featured Projects**
 
-#### 🤖 [Advanced Predictive Analytics Model](https://github.com/ankitparwatkar/)
+#### 🤖 [Advanced Predictive Analytics Model](https://github.com/ankitparwatkar/online-payment-fraud-detection-app)
 > Machine Learning model for predictive analysis with 95% accuracy
 
 #### 📊 [Interactive Data Dashboard](https://github.com/ankitparwatkar/)
 > Real-time data visualization dashboard using Power BI and Tableau
 
-#### 🔍 [Deep Learning Framework](https://github.com/ankitparwatkar/)
+#### 🔍 [Deep Learning Framework](https://github.com/ankitparwatkar/deep-learning)
 > Custom deep learning implementation from scratch
 
 ---
