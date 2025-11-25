@@ -9,12 +9,6 @@ I am a passionate Data Scientist with expertise in Artificial Intelligence and M
 
 ---
 
-### ⚡ **GitHub Activity**
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitparwatkar&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitparwatkar&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 🛠️ **Tech Stack**
 
 #### **🤖 Machine Learning & AI**
