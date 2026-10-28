@@ -89,7 +89,7 @@ https://github.com/ankitparwatkar/Gesture-Controlled-Gaming-Setup
 
 Email: ankitparwatkar35@gmail.com
 
-Portfolio: https://ankitparwatkar.github.io
+Portfolio: https://github.com/ankitparwatkar
 
 Kaggle: https://kaggle.com/ankitparwatkar
 
